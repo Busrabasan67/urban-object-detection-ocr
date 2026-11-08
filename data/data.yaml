@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['bina', 'cop_konteyneri', 'lamba_diregi', 'rogar_kapagi', 'tabela']
+
+roboflow:
+  workspace: bras-workspace-wib3e
+  project: object-detection-irywg
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bras-workspace-wib3e/object-detection-irywg/dataset/1

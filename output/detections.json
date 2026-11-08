@@ -1,0 +1,2162 @@
+[
+    {
+        "image_name": "pano_00027_jpg.rf.6401a47126072afcf67d2d64a23089f5.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8576,
+        "bbox": [
+            300,
+            261,
+            74,
+            87
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:12",
+        "inference_time_sec": 2.8698
+    },
+    {
+        "image_name": "pano_00027_jpg.rf.6401a47126072afcf67d2d64a23089f5.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8519,
+        "bbox": [
+            224,
+            302,
+            64,
+            29
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:12",
+        "inference_time_sec": 2.8698
+    },
+    {
+        "image_name": "pano_00027_jpg.rf.6401a47126072afcf67d2d64a23089f5.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8482,
+        "bbox": [
+            542,
+            287,
+            78,
+            39
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:12",
+        "inference_time_sec": 2.8698
+    },
+    {
+        "image_name": "pano_00027_jpg.rf.6401a47126072afcf67d2d64a23089f5.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8149,
+        "bbox": [
+            421,
+            294,
+            35,
+            35
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:12",
+        "inference_time_sec": 2.8698
+    },
+    {
+        "image_name": "pano_00027_jpg.rf.6401a47126072afcf67d2d64a23089f5.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7949,
+        "bbox": [
+            181,
+            292,
+            42,
+            29
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:12",
+        "inference_time_sec": 2.8698
+    },
+    {
+        "image_name": "pano_00027_jpg.rf.6401a47126072afcf67d2d64a23089f5.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7386,
+        "bbox": [
+            370,
+            271,
+            60,
+            70
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:12",
+        "inference_time_sec": 2.8698
+    },
+    {
+        "image_name": "pano_00027_jpg.rf.6401a47126072afcf67d2d64a23089f5.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6777,
+        "bbox": [
+            618,
+            300,
+            21,
+            18
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:12",
+        "inference_time_sec": 2.8698
+    },
+    {
+        "image_name": "pano_00027_jpg.rf.6401a47126072afcf67d2d64a23089f5.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.641,
+        "bbox": [
+            0,
+            302,
+            15,
+            14
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:12",
+        "inference_time_sec": 2.8698
+    },
+    {
+        "image_name": "pano_00027_jpg.rf.6401a47126072afcf67d2d64a23089f5.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.5822,
+        "bbox": [
+            508,
+            303,
+            34,
+            21
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:12",
+        "inference_time_sec": 2.8698
+    },
+    {
+        "image_name": "pano_00027_jpg.rf.6401a47126072afcf67d2d64a23089f5.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.5503,
+        "bbox": [
+            129,
+            298,
+            6,
+            19
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:12",
+        "inference_time_sec": 2.8698
+    },
+    {
+        "image_name": "pano_00027_jpg.rf.6401a47126072afcf67d2d64a23089f5.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.4492,
+        "bbox": [
+            489,
+            306,
+            6,
+            22
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:12",
+        "inference_time_sec": 2.8698
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.9007,
+        "bbox": [
+            178,
+            265,
+            106,
+            67
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8909,
+        "bbox": [
+            333,
+            268,
+            102,
+            49
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8818,
+        "bbox": [
+            598,
+            287,
+            41,
+            29
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7486,
+        "bbox": [
+            0,
+            293,
+            27,
+            23
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7082,
+        "bbox": [
+            446,
+            302,
+            25,
+            14
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6645,
+        "bbox": [
+            54,
+            311,
+            22,
+            16
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "tabela",
+        "class_label_tr": "Tabela",
+        "confidence": 0.6621,
+        "bbox": [
+            395,
+            318,
+            16,
+            11
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6438,
+        "bbox": [
+            529,
+            300,
+            13,
+            13
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6422,
+        "bbox": [
+            277,
+            300,
+            32,
+            24
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6378,
+        "bbox": [
+            579,
+            293,
+            24,
+            22
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.5363,
+        "bbox": [
+            95,
+            315,
+            19,
+            11
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.5078,
+        "bbox": [
+            422,
+            293,
+            18,
+            20
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4866,
+        "bbox": [
+            161,
+            311,
+            18,
+            13
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "tabela",
+        "class_label_tr": "Tabela",
+        "confidence": 0.4771,
+        "bbox": [
+            233,
+            306,
+            16,
+            5
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.4451,
+        "bbox": [
+            52,
+            249,
+            14,
+            91
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.3962,
+        "bbox": [
+            123,
+            306,
+            10,
+            20
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.3538,
+        "bbox": [
+            280,
+            289,
+            8,
+            39
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00401_jpg.rf.e443ace747578f541885dcaee77b8eb2.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3086,
+        "bbox": [
+            0,
+            292,
+            27,
+            36
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:13",
+        "inference_time_sec": 0.699
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7945,
+        "bbox": [
+            121,
+            308,
+            33,
+            16
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.7281,
+        "bbox": [
+            382,
+            252,
+            9,
+            88
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7022,
+        "bbox": [
+            365,
+            304,
+            23,
+            14
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6662,
+        "bbox": [
+            457,
+            298,
+            26,
+            17
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.5554,
+        "bbox": [
+            63,
+            313,
+            11,
+            11
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.545,
+        "bbox": [
+            82,
+            279,
+            12,
+            56
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.3883,
+        "bbox": [
+            452,
+            291,
+            8,
+            32
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.3863,
+        "bbox": [
+            320,
+            303,
+            4,
+            20
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3456,
+        "bbox": [
+            617,
+            304,
+            19,
+            14
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3309,
+        "bbox": [
+            48,
+            312,
+            16,
+            10
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3243,
+        "bbox": [
+            236,
+            310,
+            35,
+            13
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.2908,
+        "bbox": [
+            94,
+            309,
+            10,
+            11
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_00687_jpg.rf.d0acaa292b31e3bfcf5b41900dc02b01.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.2602,
+        "bbox": [
+            0,
+            300,
+            9,
+            23
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:15",
+        "inference_time_sec": 1.8642
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.9186,
+        "bbox": [
+            456,
+            294,
+            36,
+            29
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.814,
+        "bbox": [
+            576,
+            304,
+            21,
+            17
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7795,
+        "bbox": [
+            505,
+            299,
+            24,
+            22
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.7507,
+        "bbox": [
+            560,
+            265,
+            17,
+            67
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6112,
+        "bbox": [
+            171,
+            298,
+            41,
+            26
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.5674,
+        "bbox": [
+            490,
+            302,
+            13,
+            18
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4244,
+        "bbox": [
+            624,
+            304,
+            15,
+            18
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.3805,
+        "bbox": [
+            511,
+            270,
+            7,
+            62
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3795,
+        "bbox": [
+            556,
+            303,
+            20,
+            18
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3652,
+        "bbox": [
+            125,
+            312,
+            11,
+            11
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3549,
+        "bbox": [
+            447,
+            305,
+            9,
+            15
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3324,
+        "bbox": [
+            37,
+            311,
+            38,
+            18
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01144_jpg.rf.da05efb53de426a0b1043cf437c7df56.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.2652,
+        "bbox": [
+            582,
+            295,
+            4,
+            31
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:17",
+        "inference_time_sec": 1.8682
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.9144,
+        "bbox": [
+            334,
+            287,
+            46,
+            30
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8479,
+        "bbox": [
+            567,
+            295,
+            46,
+            35
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8215,
+        "bbox": [
+            271,
+            299,
+            20,
+            11
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.816,
+        "bbox": [
+            553,
+            255,
+            18,
+            92
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7647,
+        "bbox": [
+            180,
+            306,
+            19,
+            9
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7283,
+        "bbox": [
+            80,
+            301,
+            43,
+            19
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6607,
+        "bbox": [
+            543,
+            300,
+            24,
+            34
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6142,
+        "bbox": [
+            232,
+            302,
+            14,
+            12
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.5725,
+        "bbox": [
+            431,
+            291,
+            7,
+            36
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.5618,
+        "bbox": [
+            223,
+            302,
+            24,
+            13
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.5575,
+        "bbox": [
+            129,
+            299,
+            5,
+            28
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "rogar_kapagi",
+        "class_label_tr": "Rögar Kapağı",
+        "confidence": 0.5421,
+        "bbox": [
+            260,
+            373,
+            22,
+            12
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.5155,
+        "bbox": [
+            500,
+            311,
+            16,
+            12
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4958,
+        "bbox": [
+            379,
+            299,
+            22,
+            18
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4633,
+        "bbox": [
+            291,
+            302,
+            7,
+            8
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4535,
+        "bbox": [
+            400,
+            300,
+            17,
+            10
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4266,
+        "bbox": [
+            246,
+            301,
+            16,
+            14
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4028,
+        "bbox": [
+            396,
+            300,
+            22,
+            12
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3936,
+        "bbox": [
+            621,
+            313,
+            18,
+            12
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.3607,
+        "bbox": [
+            144,
+            305,
+            3,
+            20
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3493,
+        "bbox": [
+            305,
+            302,
+            25,
+            10
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3382,
+        "bbox": [
+            2,
+            288,
+            77,
+            44
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "rogar_kapagi",
+        "class_label_tr": "Rögar Kapağı",
+        "confidence": 0.3309,
+        "bbox": [
+            328,
+            344,
+            8,
+            4
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.2966,
+        "bbox": [
+            223,
+            304,
+            14,
+            10
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_01660_jpg.rf.4fb2fe6f3ee94a2e06085b66e2fe9ca3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.2788,
+        "bbox": [
+            525,
+            254,
+            19,
+            17
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:19",
+        "inference_time_sec": 1.8975
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8844,
+        "bbox": [
+            576,
+            287,
+            53,
+            42
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8241,
+        "bbox": [
+            2,
+            295,
+            37,
+            17
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8118,
+        "bbox": [
+            75,
+            302,
+            19,
+            12
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7632,
+        "bbox": [
+            496,
+            303,
+            46,
+            15
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7338,
+        "bbox": [
+            545,
+            293,
+            36,
+            33
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7332,
+        "bbox": [
+            244,
+            269,
+            113,
+            66
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6983,
+        "bbox": [
+            188,
+            302,
+            51,
+            28
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "tabela",
+        "class_label_tr": "Tabela",
+        "confidence": 0.5931,
+        "bbox": [
+            409,
+            301,
+            18,
+            11
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4234,
+        "bbox": [
+            99,
+            305,
+            21,
+            9
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4195,
+        "bbox": [
+            431,
+            303,
+            12,
+            8
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3886,
+        "bbox": [
+            42,
+            299,
+            34,
+            20
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3744,
+        "bbox": [
+            47,
+            299,
+            29,
+            15
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "tabela",
+        "class_label_tr": "Tabela",
+        "confidence": 0.3727,
+        "bbox": [
+            307,
+            312,
+            15,
+            6
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3393,
+        "bbox": [
+            439,
+            304,
+            24,
+            13
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "tabela",
+        "class_label_tr": "Tabela",
+        "confidence": 0.2932,
+        "bbox": [
+            257,
+            315,
+            17,
+            4
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_02622_jpg.rf.0c7b1c6d42227994455ab75cd7b4befa.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.2593,
+        "bbox": [
+            138,
+            306,
+            12,
+            7
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:21",
+        "inference_time_sec": 1.8124
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.91,
+        "bbox": [
+            532,
+            269,
+            88,
+            71
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.871,
+        "bbox": [
+            206,
+            273,
+            61,
+            42
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8557,
+        "bbox": [
+            0,
+            245,
+            70,
+            73
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8257,
+        "bbox": [
+            417,
+            307,
+            36,
+            25
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.821,
+        "bbox": [
+            264,
+            299,
+            19,
+            24
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7167,
+        "bbox": [
+            505,
+            298,
+            30,
+            33
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6892,
+        "bbox": [
+            348,
+            269,
+            56,
+            57
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6645,
+        "bbox": [
+            284,
+            304,
+            23,
+            18
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.5544,
+        "bbox": [
+            283,
+            308,
+            17,
+            15
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.5317,
+        "bbox": [
+            625,
+            249,
+            14,
+            82
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.5232,
+        "bbox": [
+            291,
+            305,
+            16,
+            17
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.41,
+        "bbox": [
+            102,
+            283,
+            44,
+            24
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "cop_konteyneri",
+        "class_label_tr": "Çöp Konteyneri",
+        "confidence": 0.3819,
+        "bbox": [
+            608,
+            337,
+            7,
+            12
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "cop_konteyneri",
+        "class_label_tr": "Çöp Konteyneri",
+        "confidence": 0.2984,
+        "bbox": [
+            607,
+            335,
+            7,
+            14
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_03124_jpg.rf.1d8c7486ac3f32ad48b4b1e794f396cb.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.2516,
+        "bbox": [
+            623,
+            278,
+            16,
+            51
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:23",
+        "inference_time_sec": 2.3303
+    },
+    {
+        "image_name": "pano_04000_jpg.rf.2970743e82b2a69c20274fd2b11f8dc3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8898,
+        "bbox": [
+            24,
+            276,
+            78,
+            52
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:25",
+        "inference_time_sec": 1.8415
+    },
+    {
+        "image_name": "pano_04000_jpg.rf.2970743e82b2a69c20274fd2b11f8dc3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8198,
+        "bbox": [
+            540,
+            263,
+            99,
+            76
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:25",
+        "inference_time_sec": 1.8415
+    },
+    {
+        "image_name": "pano_04000_jpg.rf.2970743e82b2a69c20274fd2b11f8dc3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7552,
+        "bbox": [
+            179,
+            281,
+            37,
+            32
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:25",
+        "inference_time_sec": 1.8415
+    },
+    {
+        "image_name": "pano_04000_jpg.rf.2970743e82b2a69c20274fd2b11f8dc3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7355,
+        "bbox": [
+            511,
+            288,
+            33,
+            39
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:25",
+        "inference_time_sec": 1.8415
+    },
+    {
+        "image_name": "pano_04000_jpg.rf.2970743e82b2a69c20274fd2b11f8dc3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6348,
+        "bbox": [
+            218,
+            303,
+            26,
+            16
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:25",
+        "inference_time_sec": 1.8415
+    },
+    {
+        "image_name": "pano_04000_jpg.rf.2970743e82b2a69c20274fd2b11f8dc3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.5645,
+        "bbox": [
+            0,
+            265,
+            9,
+            71
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:25",
+        "inference_time_sec": 1.8415
+    },
+    {
+        "image_name": "pano_04000_jpg.rf.2970743e82b2a69c20274fd2b11f8dc3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4776,
+        "bbox": [
+            361,
+            265,
+            83,
+            42
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:25",
+        "inference_time_sec": 1.8415
+    },
+    {
+        "image_name": "pano_04000_jpg.rf.2970743e82b2a69c20274fd2b11f8dc3.jpg",
+        "class_name": "cop_konteyneri",
+        "class_label_tr": "Çöp Konteyneri",
+        "confidence": 0.4407,
+        "bbox": [
+            593,
+            330,
+            10,
+            14
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:25",
+        "inference_time_sec": 1.8415
+    },
+    {
+        "image_name": "pano_04000_jpg.rf.2970743e82b2a69c20274fd2b11f8dc3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4172,
+        "bbox": [
+            339,
+            265,
+            110,
+            73
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:25",
+        "inference_time_sec": 1.8415
+    },
+    {
+        "image_name": "pano_04000_jpg.rf.2970743e82b2a69c20274fd2b11f8dc3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3006,
+        "bbox": [
+            7,
+            300,
+            18,
+            20
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:25",
+        "inference_time_sec": 1.8415
+    },
+    {
+        "image_name": "pano_04000_jpg.rf.2970743e82b2a69c20274fd2b11f8dc3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.2843,
+        "bbox": [
+            367,
+            265,
+            83,
+            59
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:25",
+        "inference_time_sec": 1.8415
+    },
+    {
+        "image_name": "pano_04001_jpg.rf.ad5d2155382b094a1a42346d408ba9e3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8968,
+        "bbox": [
+            0,
+            267,
+            69,
+            65
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:27",
+        "inference_time_sec": 1.9029
+    },
+    {
+        "image_name": "pano_04001_jpg.rf.ad5d2155382b094a1a42346d408ba9e3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8622,
+        "bbox": [
+            399,
+            285,
+            54,
+            42
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:27",
+        "inference_time_sec": 1.9029
+    },
+    {
+        "image_name": "pano_04001_jpg.rf.ad5d2155382b094a1a42346d408ba9e3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8605,
+        "bbox": [
+            527,
+            276,
+            65,
+            51
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:27",
+        "inference_time_sec": 1.9029
+    },
+    {
+        "image_name": "pano_04001_jpg.rf.ad5d2155382b094a1a42346d408ba9e3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8563,
+        "bbox": [
+            589,
+            266,
+            50,
+            74
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:27",
+        "inference_time_sec": 1.9029
+    },
+    {
+        "image_name": "pano_04001_jpg.rf.ad5d2155382b094a1a42346d408ba9e3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8436,
+        "bbox": [
+            181,
+            276,
+            52,
+            38
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:27",
+        "inference_time_sec": 1.9029
+    },
+    {
+        "image_name": "pano_04001_jpg.rf.ad5d2155382b094a1a42346d408ba9e3.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.4253,
+        "bbox": [
+            496,
+            297,
+            25,
+            20
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:27",
+        "inference_time_sec": 1.9029
+    },
+    {
+        "image_name": "pano_04001_jpg.rf.ad5d2155382b094a1a42346d408ba9e3.jpg",
+        "class_name": "cop_konteyneri",
+        "class_label_tr": "Çöp Konteyneri",
+        "confidence": 0.2852,
+        "bbox": [
+            627,
+            347,
+            11,
+            12
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:27",
+        "inference_time_sec": 1.9029
+    },
+    {
+        "image_name": "pano_04001_jpg.rf.ad5d2155382b094a1a42346d408ba9e3.jpg",
+        "class_name": "tabela",
+        "class_label_tr": "Tabela",
+        "confidence": 0.2533,
+        "bbox": [
+            594,
+            274,
+            43,
+            8
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:27",
+        "inference_time_sec": 1.9029
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.9298,
+        "bbox": [
+            0,
+            229,
+            95,
+            87
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.8941,
+        "bbox": [
+            568,
+            224,
+            71,
+            74
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.844,
+        "bbox": [
+            405,
+            286,
+            39,
+            21
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.7914,
+        "bbox": [
+            527,
+            267,
+            53,
+            32
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6676,
+        "bbox": [
+            193,
+            299,
+            22,
+            16
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6531,
+        "bbox": [
+            444,
+            297,
+            23,
+            11
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6423,
+        "bbox": [
+            175,
+            300,
+            22,
+            17
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.6216,
+        "bbox": [
+            217,
+            300,
+            27,
+            16
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.5561,
+        "bbox": [
+            168,
+            287,
+            15,
+            46
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "rogar_kapagi",
+        "class_label_tr": "Rögar Kapağı",
+        "confidence": 0.5108,
+        "bbox": [
+            444,
+            349,
+            19,
+            8
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.3787,
+        "bbox": [
+            170,
+            287,
+            7,
+            44
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.3678,
+        "bbox": [
+            176,
+            299,
+            39,
+            17
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "lamba_diregi",
+        "class_label_tr": "Lamba Direği",
+        "confidence": 0.3559,
+        "bbox": [
+            170,
+            287,
+            16,
+            44
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    },
+    {
+        "image_name": "pano_04181_jpg.rf.593c1daabcd6dcd26c49a6a364489919.jpg",
+        "class_name": "bina",
+        "class_label_tr": "Bina",
+        "confidence": 0.299,
+        "bbox": [
+            526,
+            267,
+            54,
+            52
+        ],
+        "ocr_text": "",
+        "detection_date": "2026-11-06 13:02:29",
+        "inference_time_sec": 1.6827
+    }
+]
